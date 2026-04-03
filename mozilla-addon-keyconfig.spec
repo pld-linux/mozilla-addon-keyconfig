@@ -3,7 +3,7 @@
 Summary:	The Keyconfig extension allows you to configure keyboard shortcuts
 Name:		mozilla-addon-%{extension}
 Version:	0.%{subver}
-Release:	1
+Release:	2
 License:	MPL v1.1 or GPL v2+ or LGPL v2.1+
 Group:		X11/Applications/Networking
 Source0:	http://mozilla.dorando.at/keyconfig/keyconfig-%{subver}.xpi
